@@ -1,2 +1,2 @@
-# Join-spreadsheets-on-a-common-column-pandas-
+# Join-two-CSVs-on-a-common-column-pandas-
 Python script that uses pandas' outer join function to join two CSV files on a shared column. 
